@@ -891,6 +891,7 @@ You can also send me a donation to the address from [this repository](https://gi
 - [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 - [QuikNode](https://quiknode.io/) - Blockchain developer cloud with API access and node-as-a-service.
 - [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+- [GetBlock](https://getblock.io)- Blockchain-as-a-Service platform that provides instant API access to full nodes from Ethereum blockchain.
 
 #### Storage
 
